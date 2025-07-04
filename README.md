@@ -8,8 +8,8 @@ Frontend: [https://device-crm-dashboard.vercel.app/](https://device-crm-dashboar
 Backend: [https://device-crm-api.onrender.com](https://device-crm-api.onrender.com)
 
 **GitHub Repositories:**  
-- Frontend: [https://github.com/swaraj29/DEVICE-CRM-DASHBOARD](https://github.com/swaraj29/DEVICE-CRM-DASHBOARD)  
-- Backend: [https://github.com/swaraj29/device-crm-api](https://github.com/swaraj29/device-crm-api)
+- Frontend: [[https://github.com/Khushboo0820/Device-CRM-Dashboard](https://device-crm-dashboard-blue.vercel.app/)  
+- Backend: [https://github.com/Khushboo0820/device-crm-api](https://github.com/Khushboo0820/device-crm-api)
 
 ---
 
