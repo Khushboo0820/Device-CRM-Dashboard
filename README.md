@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Device CRM + Inventory Management Dashboard
 
 A full-featured admin dashboard to manage medical device inventories, track installations, service visits, AMC/CMC contract lifecycles, and maintain facility-specific CRM histories—including training, feedback, and photo documentation.
@@ -185,3 +186,6 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 [MIT](LICENSE)
 
 ---
+=======
+# Device-CRM-Dashboard
+>>>>>>> 5ae1868dabbea066a95952a29dde54788a7f56a5
