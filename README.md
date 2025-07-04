@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Device CRM + Inventory Management Dashboard
 
 A full-featured admin dashboard to manage medical device inventories, track installations, service visits, AMC/CMC contract lifecycles, and maintain facility-specific CRM histories—including training, feedback, and photo documentation.
@@ -10,16 +10,6 @@ Backend: [https://device-crm-api.onrender.com](https://device-crm-api.onrender.c
 **GitHub Repositories:**  
 - Frontend: [https://github.com/swaraj29/DEVICE-CRM-DASHBOARD](https://github.com/swaraj29/DEVICE-CRM-DASHBOARD)  
 - Backend: [https://github.com/swaraj29/device-crm-api](https://github.com/swaraj29/device-crm-api)
-
----
-
-## Screenshots
-
-| Dashboard (Light) | Dashboard (Dark) |
-|:----------------:|:----------------:|
-| ![Dashboard Light](./public/screenshot-light.png) | ![Dashboard Dark](./public/screenshot-dark.png) |
-
-> _Add your own screenshots to the `public/` folder and update the filenames above if needed._
 
 ---
 
@@ -179,13 +169,3 @@ Each module supports full CRUD operations, file uploads, and is fully responsive
 
 ## Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-## License
-[MIT](LICENSE)
-
----
-=======
-# Device-CRM-Dashboard
->>>>>>> 5ae1868dabbea066a95952a29dde54788a7f56a5
